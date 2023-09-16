@@ -308,7 +308,8 @@
 .section-testimonials {
     background-color: #fdf2e9;
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 55fr 45fr;
+    align-items: center;
 }
 
 .testimonials-container {
@@ -336,7 +337,7 @@
 
 .testimonial-name {
     font-size: 1.6rem;
-    color: #777;
+    color: #6f6f6f;
 }
 
 .gallery {
