@@ -303,7 +303,7 @@
 }
 
 /**************************/
-/* testimonials SELECTION  */
+/* TESTIMONIALS SELECTION  */
 /**************************/
 .section-testimonials {
     padding: 9.6rem 0;
@@ -331,3 +331,5 @@
     font-size: 1.6rem;
     color: #777;
 }
+
+.testimonials-container {}
