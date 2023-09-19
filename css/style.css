@@ -453,3 +453,16 @@
     font-size: 1.8rem;
     line-height: 1.8;
 }
+
+.section-cta {}
+
+.cta {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+
+
+}
+
+.cta-text-box {}
+
+.cta-img-box {}
