@@ -34,7 +34,6 @@
     font-weight: 500;
     font-size: 1.8rem;
     transition: all 0.3s;
-
 }
 
 .main-nav-link:hover,
@@ -94,7 +93,6 @@
 
 .delivered-imgs {
     display: flex;
-
 }
 
 .delivered-imgs img {
@@ -189,11 +187,7 @@
 
 .step-img-box::before {
     width: 60%;
-    /* height: 60%; */
-
-    /* 60% of parent's width */
     padding-bottom: 60%;
-
     background-color: #fdf2e9;
     z-index: -2;
 }
@@ -240,7 +234,6 @@
     padding: 0.4rem 0.8rem;
     font-size: 1.2rem;
     text-transform: uppercase;
-
     color: #333;
     border-radius: 100px;
     font-weight: 600;
@@ -301,7 +294,6 @@
 .all-recipes {
     text-align: center;
     font-size: 1.8rem;
-
 }
 
 /**************************/
