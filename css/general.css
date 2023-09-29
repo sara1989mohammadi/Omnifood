@@ -75,7 +75,6 @@ body {
     font-weight: 400;
     color: #555;
 }
-
 /**************************/
 /* GENERAl REUSABLE COMPONENTS */
 /**************************/
@@ -128,7 +127,6 @@ body {
     margin-bottom: 9.6rem;
 }
 
-
 .heading-tertiary {
     font-size: 3rem;
     line-height: 1.2;
@@ -142,7 +140,6 @@ body {
     color: #cf711f;
     text-transform: uppercase;
     margin-bottom: 1.6rem;
-
 }
 
 .btn:link,
@@ -162,7 +159,6 @@ body {
 .btn--full:visited {
     color: #fff;
     background-color: #e67e22;
-
 }
 
 .btn--full:hover,
@@ -182,8 +178,6 @@ body {
     background-color: #fdf2e9;
     box-shadow: inset 0 0 0 3px #fff;
 }
-
-
 
 .link:link,
 .link:visited {
